@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello there 👋, my name is Ali Sheerzad</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBkZDlqYnY3bHh0ODFnNnB0OGpqZmdrZ3BidGJtbHoyMW9zczN1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB2bnpiMHQ2dHl4d3Rjb3VydnV6emZzd2pjcDhjN3lrcmJycTk3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="600" height="300"  /></p>
 
 ### About Me :
 I am a Full Stack Developer from Finland.
